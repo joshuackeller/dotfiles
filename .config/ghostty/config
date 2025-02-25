@@ -1,0 +1,16 @@
+theme="rose-pine"
+
+font-family="JetBrainsMonoNL Nerd Font Mono"
+font-thicken="true"
+font-size="12"
+adjust-cell-width="-10%"
+adjust-cell-height="2%"
+
+macos-icon="custom-style"
+macos-icon-frame="plastic"
+macos-icon-ghost-color="ffffff"
+macos-icon-screen-color="000000"
+
+auto-update="download"
+auto-update-channel="stable"
+
